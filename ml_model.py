@@ -1,4 +1,5 @@
-
+def model3():
+    print('new model')
 
 print('adding all ml related code here')
 
